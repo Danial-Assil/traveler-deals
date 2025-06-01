@@ -1,0 +1,37 @@
+<?php
+
+return [
+
+    'module_title' => 'الطلبيات',
+    'single' => 'طلبية',
+    'new_item' => 'طلبية جديدة',
+    'weight' => 'الوزن',
+    'items_count' => 'عدد العناصر',
+    'offers_count' => 'عدد العروض',
+    'name' => 'عنوان الطلبية',
+    'before_date' => 'قبل تاريخ',
+    'new' => 'جديدة',
+    'completed' => 'مكتملة',
+    'user' => 'المستخدم',
+    'from' => 'من',
+    'to' => 'إلى',
+    'total_weight' => 'الوزن الإجمالي',
+    'total_price' => 'الكلفة الإجمالية',
+    'reward' => 'الجائزة',
+    'notes' => 'ملاحظات',
+    'deal_method' => 'طريقة الصفقة',
+    'delivery_type' => 'طريقة التسليم',
+    'info' => 'معلومات الطلبية',
+    'by_traveller' => 'عن طريق المسافر',
+    'by_shopper' => 'عن طريق المتسوق',
+    'face_to_face' => 'وجها لوجه',
+    'order_items' => 'عناصر الطلبية',
+    'item_name' => 'عنوان العنصر',
+    'quantity' => 'الكمية',
+    'price' => 'السعر',
+    'weight' => 'الوزن',
+    'link' => 'الرابط', 
+    'category' => 'التصنيف', 
+    'no_offers' => 'لا يوجد عروض',
+    'have_active_offer' => 'لديك عرض فعال سابق'
+];
